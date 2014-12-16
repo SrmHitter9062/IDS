@@ -3,7 +3,7 @@
 //  Code is use to taking object which we want to classify and after that dscretization happen and
 //  using the generated rule we decide which class our new object is related
 
-
+saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 #include <iostream>
 #include<vector>
 #include<set>
@@ -24,7 +24,7 @@
 #include <utility>
 #include <time.h>
 
-// hello this is  IDS project //
+// hello this is  dfdfdfIDS project //
 
 #define CROSSOVER_RATE            0.9               //Crossover rate for crossover method
 #define MUTATION_RATE             0.01              //mutation rate for mutation method
