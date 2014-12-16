@@ -4,6 +4,12 @@
 //  using the generated rule we decide which class our new object is related
 
 saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
+
+
+dsdsdsdsds
+
 #include <iostream>
 #include<vector>
 #include<set>
