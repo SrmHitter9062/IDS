@@ -34,6 +34,7 @@
 #define RULE_THERSOLD             4
 #define RANDOM_NUM      ((float)rand()/(RAND_MAX+1))	//returns a float between 0 & 1
 
+// hello  this is IDS :D //
 using namespace std;
 
 
